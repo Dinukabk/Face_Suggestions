@@ -1,5 +1,5 @@
 <h1>Face_Suggestions</h1>
-<h1>Detect faces and identify person</h1>
+<h3>Detect faces and identify person</h3>
 
 
 Program For Detect faces From Uploaded image and give suggestions for the detected faces as a precentage,Used rainforcement Learning Model for Detection
