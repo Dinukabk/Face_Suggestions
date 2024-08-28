@@ -5,3 +5,4 @@ yfinance
 pandas-datareader
 prophet
 opencv-python
+libgl1-mesa-glx
